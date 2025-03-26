@@ -43,7 +43,7 @@ Install my-project with npm
 - [@Tariqu](https://github.com/Tariqu)
 
 
-# Hi, I'm Technical Babaji! 👋
+# Hi, I'm DK! 👋
 
 
 
@@ -55,4 +55,5 @@ I'm a full stack developer...
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarique-akhtar-ansari-616087132)
 [![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tariquerkl)
+# dk_nodejs_sequelize2025
 # dk_nodejs_sequelize2025
